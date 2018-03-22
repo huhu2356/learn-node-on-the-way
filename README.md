@@ -1,17 +1,15 @@
 # Node study
 
-学习js和node差不多两月有余，然真实有效学习时间说不定只有几周，哈，为了准备出去搬砖，遂将这段时间的学习感想记录一下，一来是回顾（~~自娱自乐~~），二来是方便以后查看~~那年今日的自己是多么傻逼~~
+学习js和node差不多两月有余，哈，为了准备出去搬砖，遂将这段时间的学习感想记录一下，一来是回顾（~~自娱自乐~~），二来是方便以后查看~~那年今日的自己是多么傻逼~~
 
 
 ## javascript
 
-先从js基础说起吧
-
 - JavaScript DOM编程艺术（第2版） 逼乎推荐的入门书籍，感觉看了没啥卵用，愚蠢的书籍，浪费一周阅读的时间，建议烧掉
 
-- js高程，1-7章，知识点讲的有点细，不过6，7两章关于原型的概念到是讲的不错，当时看的匆忙，值得再看一遍
+- js高程，1-7章，知识点讲的有点细，不过6，7两章关于原型的概念到是讲的不错
 
-- [javascriptissexy系列](http://javascriptissexy.com) 不错，每篇文章差不多讲了一个概念，scope，closure，hosting，this等，忘得都差不多了，有空再回顾一下吧
+- [javascriptissexy系列](http://javascriptissexy.com) 不错，每篇文章差不多讲了一个概念，scope，closure，hosting，this等
 
 - 深入理解ES6，看了部分篇章吧，感觉有些章节不知道是本身讲的不好，还是翻译有问题，总觉的理解的不是很到位（~~莫非是自己智障~~）
 
@@ -36,11 +34,11 @@ promise相当于在原先异步请求api中，填充了resolve和reject占位符
 
 ## node api
 
-这里根据Eleme node interview(https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)大纲来学习，目前只看了3篇半，主要依据其大纲和问题发散，然后来进行填充。
+这里根据[Eleme node interview](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)大纲来学习，目前只看了3篇半，主要依据其大纲和问题发散，然后来进行填充。
 
-😔，看到os那块真心吃力，有空了好好补下操作系统
+😔看到os那块真心吃力，有空了想好好撸门CSAPP
 
-作为萌新，里面有大量对stackoverflow问题的引用，以及一些个人觉得不错的blog文章
+作为萌新，对里面一些不太好理解的或重要的知识点，补充了一些对stackoverflow问题的引用，以及一些blog文章
 
 - [common](/sections/common.md) 引生出内容太吉尔多了，日后慢慢看
 - [module](/sections/module.md) 嗯哼
